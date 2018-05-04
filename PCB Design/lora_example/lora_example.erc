@@ -1,0 +1,19 @@
+ERC report (Thursday, April 26, 2018 'pmt' 03:19:47 pm, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (1.000 in,3.400 in): Pin 1 (Power input) of component #PWR03 is not driven (Net 1).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (1.750 in,2.200 in): Pin 3 (Power input) of component U1 is not driven (Net 2).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (4.900 in,2.400 in): Pin GND2 (Power input) of component JP1 is not driven (Net 8).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.850 in,4.600 in): Pin 8 (Power input) of component U2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (6.900 in,4.550 in): Pin 8 (Power input) of component U3 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (6.800 in,3.900 in): Pin 8 (Power input) of component U3 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.950 in,3.850 in): Pin 8 (Power input) of component U2 is unconnected.
+
+ ** ERC messages: 7  Errors 0  Warnings 7

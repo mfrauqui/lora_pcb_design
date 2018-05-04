@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri /Users/rufaruqui/Documents/SMR3188/pcb_design/lora_example/arduino-kicad-library/Arduino.pretty)(options "")(descr ""))
+)
